@@ -1,7 +1,7 @@
 {
-  "name": "Astro-MD V2",
-  "description": "Sinhala MultiDevice Bot Created By VihangaYT",
-  "repository": "https://github.com/vihangayt0/Astro-MD-V2",
+  "name": "BayMax Reborn",
+  "description": "BayMax Bot Made on Earth by Mr Juice",
+  "repository": "https://github.com/mrjuice01/BayMax-Reborn",
   "logo": "",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "env": {
@@ -49,37 +49,37 @@
 "FOOTER" :{
     "description" : "Footer Name",
     "required" : true,
-  "value" : "៚ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️"
+  "value" : "៚BᴀʏMᴀx Rᴇʙᴏʀɴ"
 },
 "OWNER_NAME" :{
     "description" : "Owner Name",
     "required" : true,
-  "value" : "៚ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️"
+  "value" : "꧁ᴹᴿ᭄ ᴊᴜɪᴄᴇོ ×፝֟͜×"
 },
     "OWNER_NUMBER" :{
     "description" : "Owner Number",
     "required" : true,
-  "value" : "+44 7441 466940"
+  "value" : "+263 780 699 988"
 },
     "SONG_DOWN" :{
     "description" : "Song downloading txt",
     "required" : true,
-  "value" : "*📥 ඔබේ ගීතය Download කරමින් පවතී...*"
+  "value" : "*📥 Downloading...*"
 },
         "SONG_UP" :{
     "description" : "Song uploading txt",
     "required" : true,
-  "value" : "*📤 ඔබේ ගීතය Upload කරමින් පවතී...*"
+  "value" : "*📤Uploading...*"
 },
             "VIDEO_DOWN" :{
     "description" : "video down txt",
     "required" : true,
-  "value" : "*📥 ඔබේ වීඩියෝව Download කරමින් පවතී...*"
+  "value" : "*📥Downloading...*"
 },
                 "VIDEO_UP" :{
     "description" : "video up txt",
     "required" : true,
-  "value" : "*📤 ඔබේ වීඩියෝව Upload කරමින් පවතී...*"
+  "value" : "*📤Uploading...*"
 },
                         "FILE_DOWN" :{
     "description" : "video up txt",
@@ -94,17 +94,17 @@
                         "CAPTION" :{
     "description" : " caption",
     "required" : true,
-  "value" : "*𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙴𝙳 𝙱𝚈 𝙰𝚂𝚃𝚁𝙾-𝙼𝙳*"
+  "value" : "*𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙴𝙳 𝙱𝚈 BᴀʏMᴀx*"
 },
                         "BUTTON" :{
     "description" : "alive button txt",
     "required" : true,
-  "value" : "Youtube"
+  "value" : "Instagram"
 },
                             "BUTTONURL" :{
     "description" : "alive button url",
     "required" : true,
-  "value" : "youtube.com/hjwn7skv"
+  "value" : "instagram.com/mr_Juice7"
 }, 
                            "onlygroup" :{
     "description" : "onlygroup",
